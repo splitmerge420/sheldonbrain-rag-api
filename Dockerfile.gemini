@@ -1,0 +1,24 @@
+# Dockerfile for RAG API with Gemini Embeddings
+FROM python:3.11-slim
+
+# Set working directory
+WORKDIR /app
+
+# Copy requirements
+COPY requirements-gemini.txt .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements-gemini.txt
+
+# Copy application code
+COPY rag_api_gemini.py .
+
+# Expose port
+EXPOSE 8080
+
+# Set environment variables
+ENV PORT=8080
+ENV PYTHONUNBUFFERED=1
+
+# Run the application
+CMD ["python", "rag_api_gemini.py"]
