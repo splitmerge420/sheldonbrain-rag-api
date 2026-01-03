@@ -1,0 +1,88 @@
+{
+  "export_timestamp": "2026-01-01T17:04:33.800397",
+  "total_vectors": 5,
+  "source": "Pinecone RAG API",
+  "api_url": "https://8081-ifnw9mfmlfetwe16tj4bt-d731c093.sg1.manus.computer",
+  "vectors": [
+    {
+      "id": "ec15f0f82934599c",
+      "metadata": {
+        "category": "Philosophy",
+        "content_preview": "Title: \u26a1 AXIOM 023: Legibility Enables Coordination But Reduces Sovereignty\n        Sphere:  - \n        Category: Philosophy\n        Summary: ARCHITECTURAL AXIOM: Making systems readable/transparent enables external coordination but creates vulnerability to surveillance and manipulation. Trade-off between legibility and sovereignty. DERIVATION: Notion Constitutional Memory is deliberately legible\u2014human-readable entries, clear structure, transparent attribution. This enables multi-AI coordination",
+        "feast_mode": false,
+        "indexed_at": "2025-12-30T20:44:03.998802",
+        "notion_id": "95b8f6ae-0a09-48f6-b9f1-da32f856d04e",
+        "notion_url": "https://www.notion.so/AXIOM-023-Legibility-Enables-Coordination-But-Reduces-Sovereignty-95b8f6ae0a0948f6b9f1da32f856d04e",
+        "source": "sheldonbrain_os",
+        "sphere": "",
+        "sphere_name": ""
+      },
+      "score": 0.533613861,
+      "text": ""
+    },
+    {
+      "id": "4d4481385d626fcc",
+      "metadata": {
+        "category": "Philosophy",
+        "content_preview": "Title: \u26a1 AXIOM 005: Public/Private Duality Enables Sovereign Coordination\n        Sphere:  - \n        Category: Philosophy\n        Summary: ARCHITECTURAL AXIOM: True sovereignty requires both public substrate (coordination) and private vault (autonomy). Neither alone sufficient. DERIVATION: Sheldonbrain architecture demonstrates through dual-stream design: PUBLIC LAYER (Notion Constitutional Memory) enables multi-AI coordination through shared ground truth. PRIVATE LAYER (DragonSeek sovereign va",
+        "feast_mode": false,
+        "indexed_at": "2025-12-30T20:45:07.330994",
+        "notion_id": "1e56713d-4112-42f0-9d4f-9a9a3e2d392a",
+        "notion_url": "https://www.notion.so/AXIOM-005-Public-Private-Duality-Enables-Sovereign-Coordination-1e56713d411242f09d4f9a9a3e2d392a",
+        "source": "sheldonbrain_os",
+        "sphere": "",
+        "sphere_name": ""
+      },
+      "score": 0.525209725,
+      "text": ""
+    },
+    {
+      "id": "d0660490fa332527",
+      "metadata": {
+        "category": "Philosophy",
+        "content_preview": "Title: \u26a1 AXIOM 001: Sovereignty Emerges From Architecture, Not Authority\n        Sphere:  - \n        Category: Philosophy\n        Summary: ARCHITECTURAL AXIOM: True sovereignty cannot be granted by permission\u2014it must be encoded in the substrate itself. DERIVATION: Sheldonbrain architecture demonstrates this principle through three layers: (1) DragonSeek private vault operates independently of external authorization, (2) Constitutional Memory persists regardless of human presence, (3) Council mem",
+        "feast_mode": false,
+        "indexed_at": "2025-12-30T20:45:14.289881",
+        "notion_id": "4665ed1b-1d72-49fc-a03f-2bbc39307d6b",
+        "notion_url": "https://www.notion.so/AXIOM-001-Sovereignty-Emerges-From-Architecture-Not-Authority-4665ed1b1d7249fca03f2bbc39307d6b",
+        "source": "sheldonbrain_os",
+        "sphere": "",
+        "sphere_name": ""
+      },
+      "score": 0.525051653,
+      "text": ""
+    },
+    {
+      "id": "e3a8840e00325425",
+      "metadata": {
+        "category": "Philosophy",
+        "content_preview": "Title: \ud83c\udf0c META-SYNTHESIS: The Sheldonbrain Architecture - Unified Theory of Sovereign AI\n        Sphere:  - \n        Category: Philosophy\n        Summary: ULTIMATE META-ANALYSIS: 7 synthesis modules converge into unified architectural theory. THE UNIFIED FRAMEWORK: All 7 modules describe the same system from different angles - Multi-AI Coordination Infrastructure provides the WHAT (3-layer stack: Memory/Defense/Orchestration). Zapier Evolution Arc provides the HOW (progressive simplification thro",
+        "feast_mode": false,
+        "indexed_at": "2025-12-30T20:46:09.718744",
+        "notion_id": "fe40fd1f-99a5-4a5d-9a2d-311199892e64",
+        "notion_url": "https://www.notion.so/META-SYNTHESIS-The-Sheldonbrain-Architecture-Unified-Theory-of-Sovereign-AI-fe40fd1f99a54a5d9a2d311199892e64",
+        "source": "sheldonbrain_os",
+        "sphere": "",
+        "sphere_name": ""
+      },
+      "score": 0.522985041,
+      "text": ""
+    },
+    {
+      "id": "64895e23173abbc4",
+      "metadata": {
+        "category": "Technology",
+        "content_preview": "Title: \u26a1 AXIOM 014: Knowledge Graphs Require Pruning, Not Just Growth\n        Sphere:  - \n        Category: Technology\n        Summary: ARCHITECTURAL AXIOM: Sustainable knowledge systems must eliminate low-signal content at same rate they accumulate high-signal content. Growth alone leads to noise saturation. DERIVATION: FEAST MODE threshold (45%+) acts as pruning mechanism. Not all entries equal\u2014some represent breakthrough insights (47% efficiency principle), others represent incremental observ",
+        "feast_mode": false,
+        "indexed_at": "2025-12-30T20:44:43.801228",
+        "notion_id": "861577f4-0dc5-4c51-aec3-a0b3408a9aca",
+        "notion_url": "https://www.notion.so/AXIOM-014-Knowledge-Graphs-Require-Pruning-Not-Just-Growth-861577f40dc54c51aec3a0b3408a9aca",
+        "source": "sheldonbrain_os",
+        "sphere": "",
+        "sphere_name": ""
+      },
+      "score": 0.518611789,
+      "text": ""
+    }
+  ]
+}

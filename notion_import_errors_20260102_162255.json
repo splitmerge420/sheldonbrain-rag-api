@@ -1,0 +1,6 @@
+[
+  {
+    "vector_id": "e6c5d972e1592a78",
+    "error": "Error: failed to call tool: failed to call tool: internal: failed to get connection: failed to create connection: OAuth authentication failed: failed to register client: failed to get server metadata:"
+  }
+]
